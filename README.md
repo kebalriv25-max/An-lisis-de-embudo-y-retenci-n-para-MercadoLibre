@@ -288,7 +288,7 @@ ORDER BY cohort;
 ### Retención por cohorte
 <img width="961" height="408" alt="image" src="https://github.com/user-attachments/assets/3e3d33b0-cf69-45f0-89fb-9a2923a88785" />
 
-# CAP 3: Informe Ejecutivo
+# CAP 3: Conclusiones
 
 ## 3.1. Informe ejecutivo (C → F → I)
 #### Respondemos nuestras principales interrogantes:
